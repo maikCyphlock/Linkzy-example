@@ -3,6 +3,7 @@ import {
   Head,Link,Title,Bio,Content,Avatar,Group
 } from '@linkzy/react'
 import { YoutubeIcon,TwitchIcon,TwitterIcon,LinkIcon } from './icons'
+
 export default function App() {
   return (
     <Root className='grid place-items-center text-gray-900'>
